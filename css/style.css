@@ -1,0 +1,297 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+
+header {
+	background-color: #f6f9f9;
+	width: 100%;
+	padding: 3px 0px;
+	float: left;
+}
+
+.banner{
+	background: url(../img/banner.png)no-repeat;
+    background-size: cover;
+    width: 100%;
+    float: left;
+}
+
+.banner-top{
+	margin: 0 auto;
+    width: 490px;
+    padding-top: 170px;
+    text-align: center;
+}
+
+.banner-top h2{
+
+color: white;
+    font-size: 95px;
+    border-bottom: 2px solid #15a4fa;
+}
+
+
+.banner-top p{
+	    margin-top: 22px;
+    color: white;
+
+}
+
+.btn{
+margin-top: 56px;
+    padding: 10px 27px;
+    background-color: transparent;
+    border-color: #15a4fa;
+    color: white;
+    margin-bottom: 153px;
+}
+
+.fa.fa-angle-down{
+	    color: white;
+    margin-bottom: 75px;
+    font-size: 30px;
+}
+
+.banner-two{
+	background-color: #f6f9f9;
+    text-align: center;
+    width: 100%;
+    float: left;
+}
+
+.banner-two-top{
+    margin: 53px auto;
+    width: 1037px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.banner-two-top h3{
+	    color: #2d3950;
+	    font-size: 30px;
+}
+.banner-two-top p{
+	    color: #999999;
+    margin-top: 18px;
+}
+
+.banner-two-bottom{
+	margin: 167px auto;
+}
+
+.banner-two-bottom h4{
+font-size: 20px;
+    color: #2d3950;
+    margin-bottom: 12px;
+}
+
+.banner-two-bottom p{
+	    color: #999999;
+    width: 304px;
+    margin: 0 auto;
+    margin-bottom: 70px;
+}
+
+.item-one{
+	    float: left;
+    width: 33.33%;
+}
+
+.item-two{
+	    float: left;
+    width: 33.33%;
+}
+
+.item-three{
+	    float: left;
+    width: 33.33%;
+}
+
+i.fa.fa-mobile {
+    background-color: #48baff;
+    padding: 15px 32px;
+    font-size: 61px;
+    color: white;
+    margin-bottom: 25px;
+}
+
+i.fa.fa-paper-plane{
+	     background-color: #48baff;
+    padding: 26px 26px;
+    font-size: 38px;
+    color: white;
+    margin-bottom: 25px;
+}
+
+i.fa.fa-bullhorn{
+	    background-color: #48baff;
+    padding: 23px 24px;
+    font-size: 45px;
+    color: white;
+    margin-bottom: 25px;
+}
+
+
+.images-top{
+    text-align: center;
+    margin: 0 auto;
+    float: left;
+    margin-top: 20px;
+    margin-left: 388px;
+    margin-bottom: 28px;
+}
+
+.images-top h3{
+	margin-top: 20px;
+    color: #2d3950;
+    font-size: 27px;
+    margin-bottom: 13px;
+}
+
+
+.images-top p{
+	    color: #999;
+    font-size: 17px;
+}
+
+.images-rows img{
+	padding: 8px;
+    margin: 0 auto;
+    height: 250px;
+
+}
+
+.images-row-one{
+	    float: left;
+    width: 100%;
+}
+
+.image-one{
+	float: left;
+	width: 33.33%;
+}
+
+.image-two{
+	float: left;
+	width: 33.33%;
+}
+
+.image-three{
+	float: left;
+	width: 33.33%;
+}
+
+.images-row-two{
+	 float: left;
+    width: 100%;
+}
+
+.image-four{
+	float: left;
+	width: 33.33%;
+}
+
+.image-five{
+	float: left;
+	width: 33.33%;
+}
+
+.image-six{
+	float: left;
+	width: 33.33%;
+	margin-bottom: 120px;
+}
+
+.contact{
+	float: left;
+	background: url(../img/bg.png)no-repeat;
+	background-size: 100%;
+	width: 100%;
+	display: block;
+}
+
+.contact-section{
+	text-align: center;
+}
+
+.contact-section h3{
+	    color: white;
+    margin-top: 45px;
+    font-size: 30px;
+}
+
+.contact-section p{
+	margin-top: 14px;
+    color: #999;
+    font-size: 15px;
+    margin-bottom: 37px;
+}
+
+.contact-section form{
+
+}
+
+input.name {
+    width: 450px;
+    padding: 10px;
+    background-color: transparent;
+    margin: 10px;
+}
+
+input.email{
+    width: 450px;
+    padding: 10px;
+    background-color: transparent;
+    margin: 10px;
+}
+
+input.message{
+	width: 450px;
+    padding: 10px;
+    background-color: transparent;
+    margin: 10px auto;
+    height: 145px;
+}
+
+input.checkbox {
+    margin-left: 335px;
+}
+
+.btn-two{
+	margin-top: 56px;
+    padding: 10px 38px;
+    background-color: transparent;
+    border-color: #15a4fa;
+    color: white;
+    margin-bottom: 153px;
+    margin-left: 202px;
+}
+
+.icons{
+	float: left;
+}
+
+.copyright{
+	    margin: -80px;
+    float: left;
+    margin-left: 80px;
+    color: #999;
+}
+
+ul.icon-control {
+    list-style: none;
+    float: left;
+    margin: -81px auto;
+    margin-left: 860px;
+}
+
+.icon-control li{
+    display: inline;
+    margin: 20px;
+}
